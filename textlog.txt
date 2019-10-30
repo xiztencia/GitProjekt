@@ -1,0 +1,2 @@
+HÃr skall logtext finnas efter jag har mergat den med master
+
