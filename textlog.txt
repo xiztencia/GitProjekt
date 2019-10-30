@@ -1,2 +1,24 @@
 HÃr skall logtext finnas efter jag har mergat den med master
+t log
+commit ce4e6578dce7922fb3e1bc5a49d70819740db6e6 (HEAD -> master, origin/master)
+Author: tenel <ten.elena@outlook.com>
+Date:   Wed Oct 30 10:26:55 2019 +0100
 
+    before merge
+
+    commit ce905efbf43dd5ef784abc70555280b62f119fc7 (origin/Branch, Branch)
+    Author: tenel <ten.elena@outlook.com>
+    Date:   Wed Oct 30 10:11:10 2019 +0100
+
+        h<C3><A4>lsar
+
+	commit 22d7243b327a6c424c9cd0dd584c636d4be1f204
+	Author: tenel <ten.elena@outlook.com>
+	Date:   Wed Oct 30 09:54:47 2019 +0100
+
+	    read
+
+	    commit b111f608da05c825800f3daac5909ec04eba8cfb
+	    Author: tenel <ten.elena@outlook.com>
+	    Date:   Wed Oct 30 09:40:32 2019 +0100
+	    q
